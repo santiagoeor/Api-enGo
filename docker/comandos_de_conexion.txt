@@ -1,0 +1,13 @@
+Crear una Api Rest en Go utilizando Doker
+comado air
+minuto  40:18 segundos
+https://youtu.be/B6gQ1B0cn4s
+Documentación
+https://gorm.io/docs/
+comandos pa conectarse a la base de datos
+clave
+mysecretpassword
+docker exec -it some-postgres bash
+psql -U fazt --password
+\c gorm
+\d
